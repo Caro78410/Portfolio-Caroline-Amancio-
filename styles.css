@@ -1,0 +1,105 @@
+/* Applique une police et un fond à la page */ 
+
+body { 
+
+    font-family: Arial, sans-serif; 
+
+    margin: 0; 
+
+    padding: 0; 
+
+    background-color: #f0f0f0; 
+
+} 
+
+ 
+
+/* Style du header et du menu de navigation */ 
+
+header { 
+
+    background-color: #333; 
+
+    color: #fff; 
+
+    padding: 1em; 
+
+    text-align: center; 
+
+} 
+
+ 
+
+nav ul { 
+
+    list-style-type: none; 
+
+    padding: 0; 
+
+} 
+
+ 
+
+nav ul li { 
+
+    display: inline; 
+
+    margin-right: 10px; 
+
+} 
+
+ 
+
+nav ul li a { 
+
+    color: #fff; 
+
+    text-decoration: none; 
+
+} 
+
+ 
+
+/* Sections pour chaque partie de la page */ 
+
+section { 
+
+    margin: 2em; 
+
+    padding: 1em; 
+
+    background-color: #fff; 
+
+    border-radius: 8px; 
+
+} 
+
+ 
+
+h2 { 
+
+    color: #333; 
+
+} 
+
+ 
+
+/* Style du footer */ 
+
+footer { 
+
+    text-align: center; 
+
+    padding: 1em; 
+
+    background-color: #333; 
+
+    color: #fff; 
+
+    position: relative; 
+
+    bottom: 0; 
+
+    width: 100%; 
+
+} 
